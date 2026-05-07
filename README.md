@@ -19,9 +19,9 @@ Current focus: deepening my skills in SIEM platforms, malware analysis, and secu
 [![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe-SOC_Level_1-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/NickB23)
 
 
-| ## 🛠️Projects                                    | ## 💪Skills        |
+| 🛠️Projects                                    | 💪 Skills        |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | SIEM Implementation and Log Analysis  
+| [![Splunk SIEM Project](https://img.shields.io/badge/🛡️_SOC_Project-Splunk_SIEM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickB-26/SPLUNK-Project)        | SIEM Implementation and Log Analysis  
 
 
 ## 🧰Tools
