@@ -18,20 +18,11 @@ Current focus: deepening my skills in SIEM platforms, malware analysis, and secu
 [![Microsoft SC-900](https://img.shields.io/badge/Microsoft-Security_Compliance_Identity_Fundamentals_(SC--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
 [![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe-SOC_Level_1-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/NickB23)
 
-## 💪Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| ## 🛠️Projects                                    | ## 💪Skills        |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | SIEM Implementation and Log Analysis  
 
-## 🛠️Projects
-- Detection Lab
 
 ## 🧰Tools
 
