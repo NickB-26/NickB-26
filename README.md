@@ -22,6 +22,7 @@ Current focus: deepening my skills in SIEM platforms, malware analysis, and secu
 | <h3>🛠️ Project</h3>                          | <h3>💪 Skills</h3>                                     | 
 |-----------------------------------------------|---------------------------------------------------------|
 |  <h3>[![Splunk SIEM Project](https://img.shields.io/badge/🛡️_SOC_Project-Splunk_SIEM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickB-26/SPLUNK-Project)</h3>   | <h3>SIEM Implementation and Log Analysis</h3> |
+| <h3>[![Windows Event Logs Project](https://img.shields.io/badge/🛡️_SOC_Project-Windows_Event_Logs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickB-26/Investigating-Windows-Event-Logs-for-Security-Incidents/blob/main/README.md)</h3> | <h3>Event Log Analysis, Log Parsing, Threat Detection</h3> |
 
 
 ## 🧰Tools
