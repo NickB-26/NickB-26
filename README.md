@@ -25,6 +25,7 @@ Current focus: deepening my skills in SIEM platforms, malware analysis, and secu
 | <h3>[![Windows Event Logs Project](https://img.shields.io/badge/🛡️_SOC_Project-Windows_Event_Logs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickB-26/Investigating-Windows-Event-Logs-for-Security-Incidents/blob/main/README.md)</h3> | <h3>Event Log Analysis, Log Parsing, Threat Detection</h3> |
 | <h3>[![Windows Registry Forensics](https://img.shields.io/badge/🛡️_SOC_Project-Windows_Registry_Forensics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickB-26/Analyzing-Windows-Registry-for-Evidence-of-Malicious-Activity)</h3> | <h3>Memory Forensics and Registry Analysis</h3> |
 | <h3>[![Forensic Analysis Project](https://img.shields.io/badge/🛡️_Forensics_Project-Windows_File_Systems-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickB-26/Forensic-Analysis-of-Windows-File-Systems-and-Artifacts/blob/main/README.md)</h3> | <h3>Disk Imaging, MFT/Prefetch/Shellbag Analysis</h3> |
+|  <h3>[![Extracting and Interpreting Browser Artifacts on Windows](https://img.shields.io/badge/🛡️_DFIR_Project-Browser_Artifacts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickB-26/Extracting-and-Interpreting-Browser-Artifacts-on-Windows)</h3>   | <h3>Browser Artifact Extraction and Analysis</h3> |
 
 
 ## 🧰Tools
